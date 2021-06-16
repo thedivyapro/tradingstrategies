@@ -1,6 +1,6 @@
 # Trading Strategies using Python
 
-Python Script which gets input from a csv file and returns the values of several indicators.
+Python Script which gets OHLCV values from a csv file and returns the values of several indicators.
 
 ## Prerequisites
   Python version used  : 
