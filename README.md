@@ -29,7 +29,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the mod
 ```bash
 pip install -r requirements.txt
 ```
+## Usage
 
+After activating the venv and running the requirements.txt .
+
+```bash
+python main.py
+```
 ## Indicators [to be updated]
 
 ~~Relative Strength Index - RSI~~
