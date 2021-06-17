@@ -48,7 +48,7 @@ python main.py
 
 ~~Simple Moving Averages - SMA~~
 
-Moving Average Convergence Divergence - MACD
+~~Moving Average Convergence Divergence - MACD~~
 
 Supertrend - ST
 
