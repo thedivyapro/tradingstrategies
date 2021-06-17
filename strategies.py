@@ -28,3 +28,7 @@ def rsi(data,l):
     rsi['RSI'] = ta.rsi(data["close"], length=l)
     rsi['RSI'] = round(rsi['RSI'],2)
     return rsi
+def macd(data,f,s):
+    macd = pd.DataFrame()
+    macd = ta.macd(data["close"], fast=f, slow=s)
+    return macd
